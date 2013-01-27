@@ -297,7 +297,7 @@
   <project path="prebuilts/tools" name="platform/prebuilts/tools" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="SlimRoms/android_system_bluetooth" remote="github" revision="jellybean" />
-  <project path="system/core" name="SlimRoms/android_system_core" remote="github" revision="jellybean" />
+  <project path="system/core" name="SlimRom-for-P500/android_system_core" remote="github" revision="jellybean" />
   <project path="system/extras" name="SlimRoms/android_system_extras" remote="github" revision="jellybean" />
   <project path="system/media" name="SlimRoms/android_system_media" remote="github" revision="jellybean" />
   <project path="system/netd" name="SlimRoms/android_system_netd" remote="github" revision="jellybean" />
